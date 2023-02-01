@@ -1,0 +1,9 @@
+.card{
+    border-radius: 29px;
+    background: linear-gradient(145deg, #a6b3dd, #c5d5ff);
+    box-shadow:  11px 11px 19px #9ca9d0,
+                 -11px -11px 19px #d4e5ff;
+}
+body{
+    background-color: #b8c7f5;
+}
